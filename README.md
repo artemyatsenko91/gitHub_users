@@ -1,1 +1,1 @@
-# gitHub_users
+# TypeScript курс. Проект GitHub user finder
